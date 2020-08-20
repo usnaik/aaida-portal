@@ -14,6 +14,7 @@
   ],
   "author": "Upendra S Naik",
   "license": "ISC",
+  "homepage": "https://usnaik.github.io/aaida-portal",
   "devDependencies": {
     "browser-sync": "^2.26.12",
     "gulp": "^4.0.2",
