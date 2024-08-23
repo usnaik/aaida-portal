@@ -4,13 +4,14 @@
   "description": "Aaida Technology Solutions - portal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy":"gh-pages -d src"
   },
   "keywords": [
-    "aaida",
-    "aaida technology",
-    "consulting",
-    "product development"
+    "aaida", "aaida technology","technology consulting", "software development",
+    "product development","product", "mern stack", "data science", "analytics",
+    "python", "javascript", "java", "spring boot", "agile scrum", 
+    "ai", "ml", "nlp" ,"ann", "generative ai", "deep neural networks",
+    "artificial intelligence", "upendra naik", "dbt" 
   ],
   "author": "Upendra S Naik",
   "license": "ISC",
