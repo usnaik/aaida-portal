@@ -1,10 +1,11 @@
 {
   "name": "aaidatechnology-site",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Aaida Technology Solutions - portal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
   },
   "keywords": [
     "aaida",
@@ -35,14 +36,12 @@
   "license": "ISC",
   "homepage": "https://usnaik.github.io/aaida-portal",
   "devDependencies": {
-    "browser-sync": "^2.26.12",
-    "gulp": "^4.0.2",
-    "gulp-gh-pages": "^0.5.4",
-    "gulp-sass": "^4.1.0"
+    "browser-sync": "^3.0.2",
+    "gh-pages": "^6.1.1"
   },
   "dependencies": {
-    "bootstrap": "^4.5.2",
-    "jquery": "^3.5.1",
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
     "popper.js": "^1.16.1"
   }
 }
